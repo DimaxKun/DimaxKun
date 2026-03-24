@@ -17,7 +17,7 @@
       />
     </td>
     <td align="left" width="67%">
-       <h3>About Me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJicWNjZnI5NGdlZmQzY2Znc2thNm8zZ3pieHJ1bzAzaG0zbXVkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="35"></h3>
+       <h3>About Me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJicWNjZnI5NGdlZmQzY2Znc2thNm8zZ3pieHJ1bzAzaG0zbXVkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="25"></h3>
       <p>
       I am a full stack developer focused on building responsive and scalable web applications. I work across both front-end and back-end technologies and follow modern development practices to deliver clean, efficient           solutions. I am also expanding my expertise in cloud computing, particularly with Amazon Web Services (AWS), as part of my continuous growth.
       </p>
@@ -26,6 +26,7 @@
 </table>
 
 <div align="center">
+  
 ## Tech Stack  
 
 <h3 align="center">Frontend Technologies</h3>
@@ -138,7 +139,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=aws" width="68" height="48" alt="AWS" />
       <br>Amazon Web Services (AWS)
     </td>
   </tr>
