@@ -146,17 +146,13 @@
 </div>
 
 <div align="center">
+  
 ## GitHub Stats
   
 <table width="95%" align="center">
   <tr>
-    <!-- GitHub Stats Card -->
     <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DimaxKun&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&card_width=450" alt="Mohammad Ali's GitHub Stats" />
-    </td>
-    <!-- Top Languages Card -->
-    <td width="50%" valign="top">
-       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaxKun&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=450" alt="Top Languages" />
+       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaxKun&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=450" alt="Mohammad Ali's Top Languages" />
     </td>
   </tr>
 </table>
