@@ -86,7 +86,7 @@
       <br>Mongoose
     </td>
     <td align="center" width="96">
-      <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="48" height="58" alt="REST API" />
+      <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="48" height="48" alt="REST API" />
       <br>REST API
     </td>
     <td align="center" width="96">
