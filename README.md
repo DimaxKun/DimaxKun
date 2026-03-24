@@ -52,11 +52,11 @@
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
@@ -141,7 +141,7 @@
 <h3 align="center">Cloud Platform</h3>
 <table align="center">
   <tr>
-    <td align="center" width="126">
+    <td align="center" width="136">
       <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
       <br>Amazon Web Services (AWS)
     </td>
@@ -156,7 +156,7 @@
 <table width="95%" align="center">
   <tr>
     <td width="50%" valign="top">
-       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaxKun&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=450" alt="Mohammad Ali's Top Languages" />
+       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaxKun&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=450" alt="Ali's Top Languages" />
     </td>
   </tr>
 </table>
