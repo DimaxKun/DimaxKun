@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-<h3 align="center">Backend & Database</h3>
+<h3 align="center">Backend Technologies</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -141,7 +141,7 @@
 <h3 align="center">Cloud Platform</h3>
 <table align="center">
   <tr>
-    <td align="center" width="136">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" />
       <br>Amazon Web Services (AWS)
     </td>
