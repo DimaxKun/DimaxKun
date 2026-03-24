@@ -22,7 +22,7 @@
       I am a full stack developer focused on building responsive and scalable web applications. I work across both front-end and back-end technologies and follow modern development practices to deliver clean, efficient           solutions. 
       </p>
       <p>
-        I am also expanding my expertise in cloud computing, particularly with Amazon Web Services (AWS), as part of my continuous growth.
+        I am also expanding my expertise in cloud infrastructure, particularly with Amazon Web Services (AWS), as part of my continuous growth.
       </p>
     </td>
   </tr>
