@@ -17,24 +17,15 @@
       />
     </td>
     <td align="left" width="67%">
-       <h3>About Me <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo2dmk3dnN3dGJxbzZheHhtajF4bGp4M2UzZDFueHd4ZTlqcHc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q5RtzYVQXEAfzLY1AR/giphy.gif" width="35"></h3>
+       <h3>About Me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJicWNjZnI5NGdlZmQzY2Znc2thNm8zZ3pieHJ1bzAzaG0zbXVkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="35"></h3>
       <p>
       I am a full stack developer focused on building responsive and scalable web applications. I work across both front-end and back-end technologies and follow modern development practices to deliver clean, efficient           solutions. I am also expanding my expertise in cloud computing, particularly with Amazon Web Services (AWS), as part of my continuous growth.
-      </p>
-      <p>
-        <img 
-          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJicWNjZnI5NGdlZmQzY2Znc2thNm8zZ3pieHJ1bzAzaG0zbXVkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" 
-          width="25" 
-          alt="star-gif" 
-        />
       </p>
     </td>
   </tr>
 </table>
 
-
 <div align="center">
-
 ## Tech Stack  
 
 <h3 align="center">Frontend Technologies</h3>
