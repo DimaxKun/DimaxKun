@@ -82,7 +82,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://15.ie/wp-content/uploads/2019/03/Mongoose-Orange-large-Logo.png" width="48" height="48" alt="Mongoose" />
+      <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" width="48" height="48" alt="Mongoose" />
       <br>Mongoose
     </td>
     <td align="center" width="96">
